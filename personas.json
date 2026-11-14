@@ -1,0 +1,468 @@
+[
+  {
+    "id": "7932d6f7-cee3-4a34-818d-d6522e32b9c4",
+    "label": "user_0000",
+    "name": "Arjun Gupta",
+    "age": 24,
+    "gender": "M",
+    "experience_level": "advanced",
+    "goal": "strength",
+    "diet_preference": "vegetarian",
+    "logging_style": "contradictory",
+    "quirks": [
+      "forgets to log lunch",
+      "mentions injury but never explains it"
+    ],
+    "stats": {
+      "height_cm": 163,
+      "weight_kg": 74,
+      "target_weight_kg": 109,
+      "experience_months": 77
+    },
+    "health_notes": []
+  },
+  {
+    "id": "6793e1d6-6000-4347-92f0-9a49584e42ff",
+    "label": "user_0001",
+    "name": "Sanjay Nair",
+    "age": 18,
+    "gender": "M",
+    "experience_level": "beginner",
+    "goal": "endurance",
+    "diet_preference": "vegan",
+    "logging_style": "typo_prone",
+    "quirks": [
+      "logs time inconsistently",
+      "mentions gym attendance but no workout logs"
+    ],
+    "stats": {
+      "height_cm": 156,
+      "weight_kg": 56,
+      "target_weight_kg": 93,
+      "experience_months": 12
+    },
+    "health_notes": []
+  },
+  {
+    "id": "d1c1063a-99b0-4752-a6ab-a2ba534676dc",
+    "label": "user_0002",
+    "name": "Tanya Gupta",
+    "age": 52,
+    "gender": "F",
+    "experience_level": "beginner",
+    "goal": "endurance",
+    "diet_preference": "vegetarian",
+    "logging_style": "typo_prone",
+    "quirks": [
+      "logs in regional language transliteration",
+      "typos in food names (e.g., 'roti' \u2192 'roti', 'daal' \u2192 'dal')",
+      "logs time inconsistently",
+      "mentions injury but never explains it"
+    ],
+    "stats": {
+      "height_cm": 152,
+      "weight_kg": 74,
+      "target_weight_kg": 82,
+      "experience_months": 10
+    },
+    "health_notes": []
+  },
+  {
+    "id": "d9cbc416-e591-4638-ac5d-ab8247e3abda",
+    "label": "user_0003",
+    "name": "Isha Desai",
+    "age": 41,
+    "gender": "F",
+    "experience_level": "intermediate",
+    "goal": "muscle_gain",
+    "diet_preference": "vegan",
+    "logging_style": "consistent",
+    "quirks": [
+      "vague on meal composition",
+      "mentions 'period bloat' but no pattern",
+      "diet swap mid-week unexplained",
+      "logs in regional language transliteration"
+    ],
+    "stats": {
+      "height_cm": 179,
+      "weight_kg": 93,
+      "target_weight_kg": 79,
+      "experience_months": 118
+    },
+    "health_notes": [
+      "recent breakup"
+    ]
+  },
+  {
+    "id": "bca8ac46-73b0-47e1-b536-a87fd67f5a06",
+    "label": "user_0004",
+    "name": "Priya Kumar",
+    "age": 43,
+    "gender": "F",
+    "experience_level": "intermediate",
+    "goal": "weight_loss",
+    "diet_preference": "non_veg",
+    "logging_style": "typo_prone",
+    "quirks": [
+      "logs 'stress eating' category",
+      "skips logging for days then logs bulk"
+    ],
+    "stats": {
+      "height_cm": 191,
+      "weight_kg": 103,
+      "target_weight_kg": 63,
+      "experience_months": 33
+    },
+    "health_notes": []
+  },
+  {
+    "id": "70ce47de-6b68-4a02-aa08-6734993382e2",
+    "label": "user_0005",
+    "name": "Tanya Nair",
+    "age": 32,
+    "gender": "F",
+    "experience_level": "beginner",
+    "goal": "strength",
+    "diet_preference": "jain",
+    "logging_style": "consistent",
+    "quirks": [
+      "contradicts own stats week-to-week",
+      "mentions 'cheat day' but logs 5000 cal"
+    ],
+    "stats": {
+      "height_cm": 190,
+      "weight_kg": 65,
+      "target_weight_kg": 99,
+      "experience_months": 76
+    },
+    "health_notes": []
+  },
+  {
+    "id": "3cb6c7db-cd11-42c1-85f1-ba29b4c903e2",
+    "label": "user_0006",
+    "name": "Tanya Desai",
+    "age": 18,
+    "gender": "F",
+    "experience_level": "advanced",
+    "goal": "weight_loss",
+    "diet_preference": "pescatarian",
+    "logging_style": "typo_prone",
+    "quirks": [
+      "mentions gym attendance but no workout logs",
+      "contradicts own stats week-to-week",
+      "compares self to influencers unrealistically",
+      "macro targets wildly inconsistent"
+    ],
+    "stats": {
+      "height_cm": 160,
+      "weight_kg": 103,
+      "target_weight_kg": 45,
+      "experience_months": 92
+    },
+    "health_notes": [
+      "shift worker",
+      "takes thyroid meds"
+    ]
+  },
+  {
+    "id": "d2a36c83-ec40-4762-9ea0-8ea6649bd315",
+    "label": "user_0007",
+    "name": "Sanjay Patel",
+    "age": 58,
+    "gender": "M",
+    "experience_level": "advanced",
+    "goal": "strength",
+    "diet_preference": "non_veg",
+    "logging_style": "sporadic",
+    "quirks": [
+      "vague on meal composition",
+      "mentions 'period bloat' but no pattern",
+      "inconsistent sleep notes"
+    ],
+    "stats": {
+      "height_cm": 150,
+      "weight_kg": 86,
+      "target_weight_kg": 107,
+      "experience_months": 2
+    },
+    "health_notes": []
+  },
+  {
+    "id": "0c66de1e-a6de-49ee-807f-4920a936b882",
+    "label": "user_0008",
+    "name": "Isha Kumar",
+    "age": 23,
+    "gender": "F",
+    "experience_level": "beginner",
+    "goal": "endurance",
+    "diet_preference": "vegetarian",
+    "logging_style": "sporadic",
+    "quirks": [
+      "logs 'stress eating' category",
+      "mentions 'period bloat' but no pattern"
+    ],
+    "stats": {
+      "height_cm": 160,
+      "weight_kg": 78,
+      "target_weight_kg": 112,
+      "experience_months": 111
+    },
+    "health_notes": [
+      "shift worker"
+    ]
+  },
+  {
+    "id": "0e300ed5-1981-4536-8a99-4db49d3ffee0",
+    "label": "user_0009",
+    "name": "Rohan Nair",
+    "age": 46,
+    "gender": "M",
+    "experience_level": "advanced",
+    "goal": "endurance",
+    "diet_preference": "vegetarian",
+    "logging_style": "sporadic",
+    "quirks": [
+      "mentions injury but never explains it",
+      "mentions gym attendance but no workout logs"
+    ],
+    "stats": {
+      "height_cm": 151,
+      "weight_kg": 120,
+      "target_weight_kg": 115,
+      "experience_months": 29
+    },
+    "health_notes": []
+  },
+  {
+    "id": "ee548958-4620-4a89-8cc2-a24fdf2025ba",
+    "label": "user_0010",
+    "name": "Raj Singh",
+    "age": 39,
+    "gender": "M",
+    "experience_level": "beginner",
+    "goal": "strength",
+    "diet_preference": "non_veg",
+    "logging_style": "typo_prone",
+    "quirks": [
+      "logs 'stress eating' category",
+      "logs time inconsistently",
+      "mentions 'period bloat' but no pattern",
+      "mentions 'cheat day' but logs 5000 cal"
+    ],
+    "stats": {
+      "height_cm": 186,
+      "weight_kg": 118,
+      "target_weight_kg": 105,
+      "experience_months": 31
+    },
+    "health_notes": [
+      "knee injury (2022)",
+      "thyroid issues",
+      "takes thyroid meds"
+    ]
+  },
+  {
+    "id": "c034c67c-a4e5-417b-b511-54a8228cb057",
+    "label": "user_0011",
+    "name": "Neha Nair",
+    "age": 21,
+    "gender": "F",
+    "experience_level": "advanced",
+    "goal": "weight_loss",
+    "diet_preference": "vegetarian",
+    "logging_style": "contradictory",
+    "quirks": [
+      "mentions gym attendance but no workout logs",
+      "contradicts own stats week-to-week",
+      "diet swap mid-week unexplained",
+      "logs time inconsistently"
+    ],
+    "stats": {
+      "height_cm": 162,
+      "weight_kg": 113,
+      "target_weight_kg": 102,
+      "experience_months": 17
+    },
+    "health_notes": []
+  },
+  {
+    "id": "655a7ea9-cd4a-4b34-b004-e23b379b5173",
+    "label": "user_0012",
+    "name": "Riya Kumar",
+    "age": 53,
+    "gender": "F",
+    "experience_level": "beginner",
+    "goal": "weight_loss",
+    "diet_preference": "pescatarian",
+    "logging_style": "consistent",
+    "quirks": [
+      "diet swap mid-week unexplained",
+      "vague on meal composition"
+    ],
+    "stats": {
+      "height_cm": 176,
+      "weight_kg": 107,
+      "target_weight_kg": 106,
+      "experience_months": 27
+    },
+    "health_notes": []
+  },
+  {
+    "id": "ecc9571c-74c5-4b54-9917-a14e9244a7d4",
+    "label": "user_0013",
+    "name": "Manish Singh",
+    "age": 47,
+    "gender": "M",
+    "experience_level": "intermediate",
+    "goal": "endurance",
+    "diet_preference": "pescatarian",
+    "logging_style": "contradictory",
+    "quirks": [
+      "logs time inconsistently",
+      "compares self to influencers unrealistically"
+    ],
+    "stats": {
+      "height_cm": 163,
+      "weight_kg": 52,
+      "target_weight_kg": 119,
+      "experience_months": 94
+    },
+    "health_notes": []
+  },
+  {
+    "id": "3887d63f-5707-4ef8-9e60-473138b9feaf",
+    "label": "user_0014",
+    "name": "Priya Singh",
+    "age": 51,
+    "gender": "F",
+    "experience_level": "beginner",
+    "goal": "weight_loss",
+    "diet_preference": "pescatarian",
+    "logging_style": "consistent",
+    "quirks": [
+      "mentions injury but never explains it",
+      "logs in regional language transliteration"
+    ],
+    "stats": {
+      "height_cm": 193,
+      "weight_kg": 75,
+      "target_weight_kg": 96,
+      "experience_months": 15
+    },
+    "health_notes": [
+      "mother of 2"
+    ]
+  },
+  {
+    "id": "9a0baa83-bc73-4429-8603-d452f2745cff",
+    "label": "user_0015",
+    "name": "Ravi Patel",
+    "age": 51,
+    "gender": "M",
+    "experience_level": "intermediate",
+    "goal": "maintenance",
+    "diet_preference": "non_veg",
+    "logging_style": "typo_prone",
+    "quirks": [
+      "describes 'feeling bloated' frequently",
+      "skips logging for days then logs bulk"
+    ],
+    "stats": {
+      "height_cm": 158,
+      "weight_kg": 83,
+      "target_weight_kg": 103,
+      "experience_months": 40
+    },
+    "health_notes": []
+  },
+  {
+    "id": "e5c27c40-ac75-4b57-9d37-a0eab5bcb1db",
+    "label": "user_0016",
+    "name": "Nikhil Verma",
+    "age": 22,
+    "gender": "M",
+    "experience_level": "advanced",
+    "goal": "muscle_gain",
+    "diet_preference": "pescatarian",
+    "logging_style": "typo_prone",
+    "quirks": [
+      "typos in food names (e.g., 'roti' \u2192 'roti', 'daal' \u2192 'dal')",
+      "mentions injury but never explains it"
+    ],
+    "stats": {
+      "height_cm": 165,
+      "weight_kg": 92,
+      "target_weight_kg": 81,
+      "experience_months": 20
+    },
+    "health_notes": []
+  },
+  {
+    "id": "fa27ffbb-f4e7-4042-85f3-e0464fd95ee3",
+    "label": "user_0017",
+    "name": "Tanya Bhat",
+    "age": 37,
+    "gender": "F",
+    "experience_level": "advanced",
+    "goal": "weight_loss",
+    "diet_preference": "non_veg",
+    "logging_style": "typo_prone",
+    "quirks": [
+      "contradicts own stats week-to-week",
+      "mentions 'period bloat' but no pattern"
+    ],
+    "stats": {
+      "height_cm": 159,
+      "weight_kg": 79,
+      "target_weight_kg": 81,
+      "experience_months": 77
+    },
+    "health_notes": []
+  },
+  {
+    "id": "e217acd3-2a6a-4cf5-b848-c8c1c44da43a",
+    "label": "user_0018",
+    "name": "Divya Gupta",
+    "age": 21,
+    "gender": "F",
+    "experience_level": "beginner",
+    "goal": "endurance",
+    "diet_preference": "vegan",
+    "logging_style": "consistent",
+    "quirks": [
+      "mentions gym attendance but no workout logs",
+      "mentions 'cheat day' but logs 5000 cal"
+    ],
+    "stats": {
+      "height_cm": 190,
+      "weight_kg": 78,
+      "target_weight_kg": 65,
+      "experience_months": 94
+    },
+    "health_notes": []
+  },
+  {
+    "id": "887153b9-07bf-4677-99b5-f8b48bb41629",
+    "label": "user_0019",
+    "name": "Sneha Singh",
+    "age": 62,
+    "gender": "F",
+    "experience_level": "beginner",
+    "goal": "strength",
+    "diet_preference": "vegetarian",
+    "logging_style": "typo_prone",
+    "quirks": [
+      "mentions 'period bloat' but no pattern",
+      "mentions 'cheat day' but logs 5000 cal",
+      "macro targets wildly inconsistent",
+      "asks same question twice in different ways"
+    ],
+    "stats": {
+      "height_cm": 152,
+      "weight_kg": 84,
+      "target_weight_kg": 91,
+      "experience_months": 115
+    },
+    "health_notes": []
+  }
+]
